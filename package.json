@@ -1,5 +1,5 @@
 {
-	"name": "@ottosamatori/moleculus-ui",
+	"name": "@ottosamatori/moleculus",
 	"version": "1.0.0",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.11.4",
